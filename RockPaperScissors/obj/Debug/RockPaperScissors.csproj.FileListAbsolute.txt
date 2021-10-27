@@ -1,0 +1,15 @@
+D:\Develop\2 курс\RPS\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+D:\Develop\2 курс\RPS\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+D:\Develop\2 курс\RPS\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+D:\Develop\2 курс\RPS\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+D:\Develop\2 курс\RPS\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+D:\Develop\2 курс\RPS\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\user\Desktop\RPS\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\user\Desktop\RPS\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\user\Desktop\RPS\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\user\Desktop\RPS\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\RPS\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RPS\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\user\Desktop\RPS\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\user\Desktop\RPS\RockPaperScissors\RockPaperScissors\bin\Debug\ConsoleTables.dll
+C:\Users\user\Desktop\RPS\RockPaperScissors\RockPaperScissors\bin\Debug\ConsoleTables.pdb
